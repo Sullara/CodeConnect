@@ -220,7 +220,7 @@ textarea {
     margin-left: 8px;
 }
 
-.container-imagem-none {
+.container-imagem-nome {
     display: flex;
     gap: 8px;
     color: var(--secondary-color);
